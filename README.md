@@ -1,16 +1,6 @@
-# walletapp
+# walletapp - Tugas Slicing 1
 
 A new Flutter project.
+<img width="1302" height="2811" alt="Screenshot_2026-04-09-04-10-38-331_com example walletapp-edit" src="https://github.com/user-attachments/assets/63a7e848-f8ea-40df-81d0-3e2e9436ab87" />
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1302" height="2811" alt="Screenshot_2026-04-09-04-10-54-162_com example walletapp-edit" src="https://github.com/user-attachments/assets/6058de46-1b6f-48c3-a0d2-23897369f97f" />
